@@ -13,5 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 [![STAR-QUAKE's GitHub stats](https://github-readme-stats.vercel.app/api?username=starquakee&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+<a href="#stats" align="center">
+    <img align="center" alt="STAR-QUAKE's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=starquakee&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<br />
